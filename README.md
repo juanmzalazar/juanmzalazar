@@ -1,5 +1,3 @@
-### Hello, there... 👋 
-
 ![Hello there!](https://github.com/juanmzalazar/juanmzalazar/blob/7c367e105bd462566b2d3ae9e02769bdd18c8865/helloThere_8bit.png)
 
 <!--
