@@ -1,6 +1,6 @@
 ### Hello, there... 👋 
 
-![Hello there!](https://github.com/juanmzalazar/juanmzalazar/blob/3455b41f0a97e084214af727dd4542571246d78e/helloThere_8bit.jpg)
+![Hello there!](https://github.com/juanmzalazar/juanmzalazar/blob/7c367e105bd462566b2d3ae9e02769bdd18c8865/helloThere_8bit.png)
 
 <!--
 **juanmzalazar/juanmzalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
